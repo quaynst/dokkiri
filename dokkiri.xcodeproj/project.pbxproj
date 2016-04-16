@@ -15,6 +15,8 @@
 		EB4977101CC27E1100D30547 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB49770E1CC27E1100D30547 /* LaunchScreen.storyboard */; };
 		EB49771B1CC27E1100D30547 /* dokkiriTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB49771A1CC27E1100D30547 /* dokkiriTests.m */; };
 		EB4977261CC27E1100D30547 /* dokkiriUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB4977251CC27E1100D30547 /* dokkiriUITests.m */; };
+		EB4977351CC280B700D30547 /* snoopy-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB4977331CC280B700D30547 /* snoopy-01.jpg */; };
+		EB4977361CC280B700D30547 /* snoopy-02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB4977341CC280B700D30547 /* snoopy-02.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		EB4977211CC27E1100D30547 /* dokkiriUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dokkiriUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB4977251CC27E1100D30547 /* dokkiriUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dokkiriUITests.m; sourceTree = "<group>"; };
 		EB4977271CC27E1100D30547 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB4977331CC280B700D30547 /* snoopy-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "snoopy-01.jpg"; path = "../../../../Pictures/snoopy-01.jpg"; sourceTree = "<group>"; };
+		EB4977341CC280B700D30547 /* snoopy-02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "snoopy-02.jpg"; path = "../../../../Pictures/snoopy-02.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		EB4976FF1CC27E1100D30547 /* dokkiri */ = {
 			isa = PBXGroup;
 			children = (
+				EB4977331CC280B700D30547 /* snoopy-01.jpg */,
+				EB4977341CC280B700D30547 /* snoopy-02.jpg */,
 				EB4977031CC27E1100D30547 /* AppDelegate.h */,
 				EB4977041CC27E1100D30547 /* AppDelegate.m */,
 				EB4977061CC27E1100D30547 /* ViewController.h */,
@@ -245,7 +251,9 @@
 			files = (
 				EB4977101CC27E1100D30547 /* LaunchScreen.storyboard in Resources */,
 				EB49770D1CC27E1100D30547 /* Assets.xcassets in Resources */,
+				EB4977351CC280B700D30547 /* snoopy-01.jpg in Resources */,
 				EB49770B1CC27E1100D30547 /* Main.storyboard in Resources */,
+				EB4977361CC280B700D30547 /* snoopy-02.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
